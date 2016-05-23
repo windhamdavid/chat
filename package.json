@@ -1,0 +1,13 @@
+{
+	"name": "chat.davidawindham.com",
+	"version": "0.0.1",
+	"description": "socket.io chat",
+	"main": "index.js",
+	"author": "David A. Windham",
+	"private": true,
+	"license": "BSD",
+	"dependencies": {
+		"socket.io": "1.4.6",
+		"express": "4.13.4"
+	}
+}
